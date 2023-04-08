@@ -40,8 +40,8 @@ x3: The third independent variable.
 x4: The fourth independent variable.
 
 ## Results
-# YAML
 
+```
 R-squared: 0.9999999981720666
 Mean squared error: 2.7781461863772163
                             OLS Regression Results                            
@@ -74,6 +74,7 @@ Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 142. This might indicate that there are
 strong multicollinearity or other numerical problems.
+```
 
 
 
