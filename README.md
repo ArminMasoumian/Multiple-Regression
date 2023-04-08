@@ -75,7 +75,7 @@ Notes:
 [2] The condition number is large, 142. This might indicate that there are
 strong multicollinearity or other numerical problems.
 ```
-
+As you can see, the model has a high R-squared value of 0.9999999981720666, indicating that the model fits the data well. The p-values for the independent variables show that 'x1' and 'x2' are statistically significant predictors of 'y', while 'x3' and 'x4' are not.
 
 
 
