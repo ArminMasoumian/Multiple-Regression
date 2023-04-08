@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Next, clone this repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/multiple-regression.git
+git clone https://github.com/ArminMasoumian/Multiple-Regression.git
 ```
 Finally, navigate to the src directory and run the Python scripts:
 
